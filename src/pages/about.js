@@ -8,6 +8,7 @@ import profileImage from "../../public/images/heashot-1.png"
 import Skills from '@/components/Skills'
 import Experiences from '@/components/Experiences'
 import Educations from '@/components/Educations'
+import VolunteersHobbies from '@/components/VolunteersHobbies'
 
 const About = () => {
   return (
@@ -40,6 +41,7 @@ const About = () => {
                 <Skills />
                 <Experiences />
                 <Educations />
+                <VolunteersHobbies />
             </Layout>
         </main>
     </>
