@@ -4,8 +4,8 @@ import Head from 'next/head'
 import React from 'react'
 
 import featured from "../../../public/images/catalogue/featured-img.png"
-import directory from "../../../public/images/catalogue/directory.jpg"
-import sql from "../../../public/images/catalogue/sql.jpg"
+import directory from "../../../public/images/catalogue/directory.png"
+import sql from "../../../public/images/catalogue/sql.png"
 
 import Image from 'next/image'
 import Link from 'next/link'
