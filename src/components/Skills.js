@@ -45,6 +45,15 @@ const Skills = () => {
                     MongoDB
                 </div>
                 <div className="rounded p-2 text-sm cursor-pointer bg-white text-black hover:bg-[#e9b44b] hover:text-white">
+                    Vercel
+                </div>
+                <div className="rounded p-2 text-sm cursor-pointer bg-white text-black hover:bg-[#e9b44b] hover:text-white">
+                    AWS
+                </div>
+                <div className="rounded p-2 text-sm cursor-pointer bg-white text-black hover:bg-[#e9b44b] hover:text-white">
+                    Google Cloud
+                </div>
+                <div className="rounded p-2 text-sm cursor-pointer bg-white text-black hover:bg-[#e9b44b] hover:text-white">
                     WordPress
                 </div>
                 <div className="rounded p-2 text-sm cursor-pointer bg-white text-black hover:bg-[#e9b44b] hover:text-white">
