@@ -7,7 +7,7 @@ const Details = ({type, time, place, info}) => {
   const ref = useRef(null)
 
   return (
-    <li ref={ref} className='my-8 first:mt-0 last:mb-0 w-[60%] mx-auto flex flex-col items-center justify-between'>
+    <li ref={ref} className='my-8 first:mt-0 last:mb-0 w-[60%] 2xl:w-[50%] mx-auto flex flex-col items-center justify-between max-w-screen-2xl'>
       <LiIcon reference={ref}/>
       <motion.div
         initial={{y: 50}}
@@ -18,7 +18,7 @@ const Details = ({type, time, place, info}) => {
         <span className='capitalize font-medium italic'>
           {time} | {place}
         </span>
-        <p className='font-medium w-full text-lg lg:text-base'>
+        <p className='font-medium text-lg lg:text-base'>
           {info}
         </p>
       </motion.div>

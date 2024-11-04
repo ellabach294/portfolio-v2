@@ -23,7 +23,7 @@ const About = () => {
                 <AnimatedText text="My Journey in Web Development" className='mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl'/>
                 <div className='grid w-full grid-cols-8 gap-16'>
                     <div className='col-span-6 xl:col-span-8 flex flex-col items-start justify-start mx-20 mt-10'>
-                        <h3 className='mb-4 lg:text-xl text-2xl font-bold uppercase text-gold'>Biography</h3>
+                        <h3 className='mb-4 lg:text-xl text-2xl font-bold uppercase text-gold'>All About Me</h3>
                         <p className='font-medium text-lg lg:text-base'>Hello and welcome to my tech haven! </p>
                         <p className='my-4 font-medium text-lg lg:text-base'>My name is Ella Bach, and I am a web design and development student at NAIT, working towards a career as a full-stack developer. I am currently on the Dean&apos;s Honour List with a GPA of 4.0. I bring to my work a combination of technical expertise and customer-focused experience.  </p>
                         <p className='my-4 font-medium text-lg lg:text-base'>I was born and raised in Ho Chi Minh City, Vietnam, and migrated to Australia when I was 17, starting my path of self-discovery and development. I obtained a Bachelor of Arts in Hospitality and Tourism Management and worked in customer service for almost ten years, especially enjoying my role as a corporate travel agent.</p>
